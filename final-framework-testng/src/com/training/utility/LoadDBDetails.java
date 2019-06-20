@@ -10,7 +10,7 @@ import com.training.bean.DBBean;
 
 /**
  * 
- * @author Naveen
+ * @author Rahul
  * @see will load the db details and shall be used in connection class
  */
 public class LoadDBDetails {
